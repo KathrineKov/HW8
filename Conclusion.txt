@@ -1,0 +1,23 @@
+Task 1: Sorting 3 variables using no more than 3 simple if 
+
+What I learned: 
+I learned how to sort 3 variables using only 3 simple if statements. This helped me understand 
+the value of minimalism and efficiency in coding without resorting to complex logic.
+
+How I can use it in future work: 
+The ability to minimize complexity and write optimal code will be useful when working with large
+datasets, especially when writing algorithms that need to maintain high performance.
+
+Task 2: Counting strings in a list with elements of different types
+
+What I learned: 
+I learned how to iterate through a list with elements of different types and count the number of
+strings using Python’s type() function. 
+
+How I can use it in future work: 
+I can apply this technique to data cleaning and validation tasks, where it's important to differentiate 
+between data types and handle them accordingly. 
+
+Overall Conclusion:
+By mastering type checking, conditionals, and simple algorithms, I can better handle data transformations 
+and contribute to more efficient and effective analytics solutions in my future work.
